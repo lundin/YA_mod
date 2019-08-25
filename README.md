@@ -1,2 +1,2 @@
 # Notes
-These are my notes on lectures 1-4 from local
+These are my dev notes on lectures 1-4 from local
