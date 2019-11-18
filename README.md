@@ -1,2 +1,2 @@
 # Notes
-These are my modifed 2 dev notes on lectures 1-4 from local
+These are my modifed 244343 dev notes on lectures 1-4 from local
